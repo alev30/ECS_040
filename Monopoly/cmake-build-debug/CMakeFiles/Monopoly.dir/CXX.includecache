@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/allevin/Documents/ECS_040/Monopoly/Gamestate.h
+vector
+/Users/allevin/Documents/ECS_040/Monopoly/vector
+
+/Users/allevin/Documents/ECS_040/Monopoly/main.cpp
+iostream
+-
+Gamestate.h
+/Users/allevin/Documents/ECS_040/Monopoly/Gamestate.h
+fstream
+-
+sstream
+-
+vector
+-
+string
+-
+cstdlib
+-
+cstdio
+-
+algorithm
+-
+
